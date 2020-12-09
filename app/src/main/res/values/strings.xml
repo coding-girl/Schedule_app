@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Розклад</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Налаштування</string>
+
+    <!-- Weekends strings -->
+    <string name="first">Перший тиждень</string>
+    <string name="second">Другий тиждень</string>
+
+    <!-- Fragments strings -->
+    <string name="monday">Понеділок</string>
+    <string name="tuesday">Вівторок</string>
+    <string name="wednesday">Середа</string>
+    <string name="thursday">Четвер</string>
+    <string name="friday">П"\u0027"ятниця</string>
+    <string name="saturday">Субота</string>
+    <string name="sunday">Неділя</string>
+    <string name="select_snackbar">Виберіть один елемент.</string>
+    <string name="selected">Вибрано</string>
+
+    <!-- Main Activity strings -->
+    <string name="timetable">Розклад</string>
+    <string name="subject">Предмет</string>
+    <string name="field_error">Поле не повинно бути пустим!</string>
+    <string name="time_error">Вкажіть час!</string>
+    <string name="week">Тиждень</string>
+    <string name="delete">Видалити</string>
+    <string name="edit">Редагувати</string>
+
+
+    <string name="add_subject">Додати предмет</string>
+    <string name="edit_subject">Редагувати</string>
+    <string name="teacher">Викладач</string>
+    <string name="room">Аудиторія</string>
+    <string name="time">Час</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="time_to_dialog">До:</string>
+    <string name="time_from_dialog">З:</string>
+    <string name="subject_dialog">Предмет:</string>
+    <string name="teacher_dialog">Викладач:</string>
+    <string name="room_dialog">Аудиторія:</string>
+    <string name="select_time">Вкажіть час</string>
+    <string name="select_color">Виберіть колір</string>
+    <string name="choose_time">Вкажіть час</string>
+    <string name="choose_date">Вкажіть дату</string>
+    <string name="choose_color">Виберіть колір</string>
+
+    <!-- Homeworks Activity strings -->
+    <string name="title_activity_homeworks">Домашнє завдання</string>
+    <string name="homeworks">Домашнє завдання</string>
+    <string name="select_date">Вкажіть дату</string>
+    <string name="deadline_dialog">Дедлайн:</string>
+    <string name="deadline">Дедлайн</string>
+    <string name="description_dialog">Опис:</string>
+    <string name="desctiption">Опис</string>
+    <string name="date_error">Вкажіть дату!</string>
+    <string name="edit_homework">Редагувати</string>
+    <string name="add_homework">Додати домашнє завдання</string>
+    <string name="deadline_snackbar">"Вкажіть дедлайн!</string>
+    <string name="date">Дата</string>
+
+
+    <!-- Teachers Activity strings -->
+    <string name="teachers">Викладачі</string>
+    <string name="add_teacher">Додати викладача</string>
+    <string name="edit_teacher">Редагувати</string>
+    <string name="name_dialog">Ім"\u0027"я:</string>
+    <string name="post_dialog">Посада:</string>
+    <string name="phonenumber_dialog">Телефон:</string>
+    <string name="email_dialog">Email:</string>
+    <string name="name">Ім"\u0027"я</string>
+    <string name="phone_number">Номер телефону</string>
+    <string name="post">Посада</string>
+    <string name="email">Email</string>
+
+    <!-- Exams Activity strings -->
+    <string name="exams">Екзамен</string>
+    <string name="add_exam">Додати екзамен</string>
+    <string name="date_dialog">Дата:</string>
+    <string name="time_dialog">Час:</string>
+
+    <!-- Pop-up strings -->
+    <string name="delete_popup">Видалити</string>
+    <string name="edit_popup">Редагувати</string>
+
+    <!-- Settings Activity strings -->
+    <string name="sevendays_change">Включити  7 денний режим</string>
+    <string name="language_change">Змінити мову</string>
+    <string name="mode_change">Включити нічний режим</string>
+
+
+
+    <!-- Notification -->
+    <string name="notification_title">Сьогоднішні пари</string>
+    <string name="do_not_have_lessons">Сьогодні немає пар!</string>
+
+</resources>

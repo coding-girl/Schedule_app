@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.ListPreference
+        android:defaultValue="false"
+        android:key="language"
+        android:icon="@drawable/baseline_view_week_black_18"
+        android:title="@string/language_change" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="false"
+        android:key="sevendays"
+        android:icon="@drawable/baseline_view_week_black_18"
+        android:title="@string/sevendays_change" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="false"
+        android:key="mode"
+        android:icon="@drawable/baseline_view_week_black_18"
+        android:title="@string/mode_change" />
+
+
+
+</PreferenceScreen>

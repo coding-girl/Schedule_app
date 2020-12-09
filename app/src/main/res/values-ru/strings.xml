@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <!-- Weekends strings -->
+    <string name="first">Первая неделя</string>
+    <string name="second">Вторая неделя</string>
+
+    <!-- Fragments strings -->
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="select_snackbar">Please, select one item.</string>
+    <string name="selected">Выбрано</string>
+
+    <!-- Main Activity strings -->
+    <string name="timetable">Расписание</string>
+    <!--  <string name="seven_days_of_the_week">7 Days of the Week</string> -->
+    <string name="subject">Предмет</string>
+    <string name="field_error">Поле не должно быть пустым!</string>
+    <string name="time_error">Укажите время!</string>
+    <string name="week">Week</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+
+
+    <string name="add_subject">Добавить предмет</string>
+    <string name="edit_subject">Редактировать предмет</string>
+    <string name="teacher">Преподаватель</string>
+    <string name="room">Аудитория</string>
+    <string name="time">Время</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="time_to_dialog">До:</string>
+    <string name="time_from_dialog">С:</string>
+    <string name="subject_dialog">Предмет:</string>
+    <string name="teacher_dialog">Преподаватель:</string>
+    <string name="room_dialog">Аудитория:</string>
+    <string name="select_time">Укажите время</string>
+    <string name="select_color">Измените цвет</string>
+    <string name="choose_time">Выберите время</string>
+    <string name="choose_date">Выберите дату</string>
+    <string name="choose_color">Выберите цвет</string>
+
+    <!-- Homeworks Activity strings -->
+    <string name="title_activity_homeworks">HomeworksActivity</string>
+    <string name="homeworks">Домашнее задание</string>
+    <string name="select_date">Укажите дату:</string>
+    <string name="deadline_dialog">Дедлайн:</string>
+    <string name="deadline">Дедлайн</string>
+    <string name="description_dialog">Описание:</string>
+    <string name="desctiption">Описание</string>
+    <string name="date_error">Укажите дату!</string>
+    <string name="edit_homework">Редактировать домашнее задание</string>
+    <string name="add_homework">Добавить домашнее задание</string>
+    <string name="deadline_snackbar">"Укажите дедлайн!</string>
+    <string name="date">Дата</string>
+
+
+
+    <!-- Teachers Activity strings -->
+    <string name="teachers">Преподаватели</string>
+    <string name="add_teacher">Добавить преподавателя</string>
+    <string name="edit_teacher">Редактировать</string>
+    <string name="name_dialog">Имя:</string>
+    <string name="post_dialog">Должность:</string>
+    <string name="phonenumber_dialog">Телефон:</string>
+    <string name="email_dialog">Email:</string>
+    <string name="name">Имя</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="post">Должность</string>
+    <string name="email">Email</string>
+
+    <!-- Exams Activity strings -->
+    <string name="exams">Экзамен</string>
+    <string name="add_exam">Добавить экзамен</string>
+    <string name="date_dialog">Дата:</string>
+    <string name="time_dialog">Время:</string>
+
+    <!-- Pop-up strings -->
+    <string name="delete_popup">Удалить</string>
+    <string name="edit_popup">Изменить</string>
+
+
+    <!-- Settings Activity strings -->
+    <string name="sevendays_change">Включить 7 дневный режим</string>
+    <string name="language_change">Изменить язык</string>
+    <string name="mode_change">Включить ночной режим</string>
+
+    <!-- Notification -->
+    <string name="notification_title">Сегодняшние пары</string>
+    <string name="do_not_have_lessons">У тебя сегодня нет пар!</string>
+
+</resources>
